@@ -1,2 +1,4 @@
 # webgl-html
-Mergin WebGL and HTML
+Merging WebGL and HTML
+
+Personal project for learning WebGL and HTML
